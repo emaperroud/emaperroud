@@ -19,9 +19,6 @@
 .derecha {
 	float:right;
 }
-.abajo {
-	float:button;
-}
 
 .texto {
 	font-family: Arial, Helvetica, Sans-serif;
@@ -30,45 +27,6 @@
 	text-align: center;
 }
 
-.cuadrado {
-     width: 40px; 
-     height: 7px; 
-     background: #428bca;
-	 margin-top: 52px
-}
-.circuloborde{
-     width: 50px;
-     height: 50px;
-     -moz-border-radius: 50%;
-     -webkit-border-radius: 50%;
-     border-radius: 50%;
-	 border: 5px solid #428bca;
-     margin-top: 25px;
-	 margin-left: 10px;
-}
-.circulolleno {
-     width: 50px;
-     height: 50px;
-     -moz-border-radius: 50%;
-     -webkit-border-radius: 50%;
-     border-radius: 50%;
-     background: #5cb85c;
-	 margin-top: 25px;
-	 margin-left: 10px;
-}
-.triangulo {
-     width: 0; 
-     height: 0; 
-     border-left: 20px solid #428bca;
-     border-top: 14px solid transparent;
-     border-bottom: 14px solid transparent; 
-	 margin-top: 41px;
-}
 .horizontal {
 	float:left;
-}
-#objetivo {
-	margin-left: 0px;
-	margin-top: 10px;
-	padding-top: 90px;
 }
